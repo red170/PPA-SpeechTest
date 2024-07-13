@@ -1,0 +1,10 @@
+C:\Users\LUIS\Desktop\bobo\SpeechTest\obj\Debug\Interop.SpeechLib.dll
+C:\Users\LUIS\Desktop\bobo\SpeechTest\obj\Debug\SpeechTest.csproj.ResolveComReference.cache
+C:\Users\LUIS\Desktop\bobo\SpeechTest\obj\Debug\SpeechTest.exe
+C:\Users\LUIS\Desktop\bobo\SpeechTest\obj\Debug\SpeechTest.pdb
+C:\Users\LUIS\Desktop\bobo\SpeechTest\bin\Debug\SpeechTest.exe
+C:\Users\LUIS\Desktop\bobo\SpeechTest\bin\Debug\SpeechTest.pdb
+C:\Users\LUIS\Desktop\bobo\SpeechTest\bin\Debug\Interop.SpeechLib.dll
+C:\Users\LUIS\Desktop\bobo\SpeechTest\obj\Debug\SpeechTest.Form1.resources
+C:\Users\LUIS\Desktop\bobo\SpeechTest\obj\Debug\SpeechTest.csproj.GenerateResource.Cache
+C:\Users\LUIS\Desktop\bobo\SpeechTest\obj\Debug\SpeechTest.csprojResolveAssemblyReference.cache
